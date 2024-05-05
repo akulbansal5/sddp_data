@@ -1,0 +1,8 @@
+class,method,id,inst,T,rows,cols,scens,vars_detr,constr_detr,threads,mipgap,maxTime,b-time(s),s-time(s),obj,bound,gap
+smkp,detr,125,1,3,50,120,5,9021,5150,2,0.0001,120,3.93784463,117.393274502,1.3618029200000027e6,1.361652660953717e6,0.0001103383199425404
+smkp,detr,125,1,3,50,120,5,nan,nan,2,0.0001,30,0,0,error,error,error
+smkp,detr,124,1,3,50,120,5,nan,nan,2,0.0001,30,0,0,error,error,error
+smkp,detr,124,1,3,50,120,5,nan,nan,2,0.0001,30,0,0,error,error,error
+smkp,detr,124,1,3,50,120,5,nan,nan,2,0.0001,30,0,0,error,error,error
+smkp,detr,125,1,3,50,120,5,nan,nan,2,0.0001,30,0,0,error,error,error
+smkp,detr,125,1,3,50,120,5,9091,5150,2,0.0001,30,4.107485751,46.599520253,14308.399999999992,14140.440000000002,0.01173855916804046

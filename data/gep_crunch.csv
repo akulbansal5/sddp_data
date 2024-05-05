@@ -1,0 +1,1 @@
+class,method,run,id,T,rows,cols,scens,bdIters,simCount,mipgap,maxTime,b-time(s),t-time(s),s-time(s),sim-time,iterations,cuts_std,cuts_nonstd,bound,ci_low,ci_high,sim_low,sim_high

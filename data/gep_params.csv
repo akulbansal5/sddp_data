@@ -1,0 +1,6 @@
+﻿,BaseLoad,CC,CT,Nuclear,Wind,IGCC
+GenCap,113,39,38,118,17.5,56
+max_req,4,10,10,1,45,4
+HeatRate,8844,7196,10842,10400,NA,8613
+Effeciency,0.4,0.56,0.4,0.45,NA,0.48
+var_cost,4.7,2.11,3.66,0.51,5,2.98
